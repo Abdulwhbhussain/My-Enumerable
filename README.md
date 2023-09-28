@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="wahab_icon.jpeg" alt="logo" width="140"  height="auto" />
-  <h3>Decode Morse Message</h3>
+  <h3>My Enumerable</h3>
 
 </div>
 <!-- TABLE OF CONTENTS -->
@@ -10,7 +10,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Decode Morse Message ](#-decode--morse-message-)
+- [📖 Create your own Enumerable ](#-create-your-own-enumerable-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Decode Morse Message <a name="about-project"></a>
+# 📖 Create your own Enumerable <a name="about-project"></a>
 
-**Decode Morse Message** is a tool designed for translating Morse code sentences into English text.
+In this project we will learn how to use a module inside your class. For this we will create a class MyList and a module MyEnumerable. My module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,7 +45,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Decode morse code to Text**
+- **Enumerable Methods All?, Any?, Filter?**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +69,7 @@ Clone this repository to your desired folder:
 
 - Create a local directory where you can clone the project
 - Clone the project to your directory by running
-  - `https://github.com/Abdulwhbhussain/Morse-Code.git`
+  - `https://github.com/Abdulwhbhussain/My-Enumerable.git`
 
 ### Install
 
@@ -81,9 +81,9 @@ Install this project with:
 
 👤 **Abdul Wahab Hussain**
 
-> - GitHub: [Abdulwhbhussain](https://github.com/Abdulwhbhussain)
-> - LinkedIn: [Abdulwhbhussain](https://www.linkedin.com/in/abdulwhbhussain)
-> - Twitter: [Abdulwhbhussain](https://twitter.com/AbdulWhbHussain)
+- GitHub: [Abdulwhbhussain](https://github.com/Abdulwhbhussain)
+- LinkedIn: [Abdulwhbhussain](https://www.linkedin.com/in/abdulwhbhussain)
+- Twitter: [Abdulwhbhussain](https://twitter.com/AbdulWhbHussain)
 
 👤 Sodeeq Awoyemi
 
