@@ -4,6 +4,17 @@ module MyEnumerable
     true
   end
 
+  def any?()
+    each { |item| return true if yield item }
+    false
+  end
+
+  def filter()
+    result = []
+    each { |item| result << item if yield item }
+    result
+  end
+
   def max()
     max = nil
     each { |item| max = item if max.nil? || item > max }
